@@ -5,7 +5,7 @@ speakers = ["Edsgar, Ada, Charles, Alan, Grace, Linus, Matz"]
   end
 
 def batch_badge_creator(speakers)
-  spaekers.collect do |attendees|
+  speakers.collect do |attendees|
   "Hello, my name is #{attendee}."
 end
 end
